@@ -16,7 +16,7 @@ pip install --user -U pydub
 winget install --id Gyan.FFmpeg -e --source winget --accept-package-agreements --accept-source-agreements
 
 --Falls du auf Fehlermeldungen stößt, schau ob alles richtig ist und probiere es nochmal.
---Wenn ja und es weiterhin besteht, ignoriere es fürs erste und kontaktiere den Support.
+
 -------------------------------------------------------------------------------------------------------
 
 Wenn du auf Fehlermeldungen im Terminal stößt versuche zuerst das Programm neu zu installieren.
