@@ -1,0 +1,18 @@
+Patch Notes
+
+Die unten genannten Features sind die neuen Features des Programms "Rechner 2 von ScarZomb":
+
+--Rechnungs Optionen:
+
+-Es wurden in diesem Update keine Weiteren hinzugefügt.
+
+--Design:
+
+-Es wurde ein Error Sound hinzugefügt.
+-Das Programm hat nun ein Icon.	(Gemacht von Tempo_doloe)
+-Bald werden neue Fenster mit festen Auswahl Möglichkeiten hinzugefügt.
+
+--Sonstiges:
+
+-Ein paar Bugs wurden gefixt.
+-Es wurde ein README für die benutzung des Programmes hinzugefügt.
